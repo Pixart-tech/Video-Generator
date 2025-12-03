@@ -1,0 +1,2860 @@
+{
+  "schools": [
+    {
+      "id": "120363405477680044@g.us",
+      "name": "Khushi Gurukulam 🤝Edplore",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363235317061096@g.us",
+      "name": "Advith 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1_BInisZbrSQkICFmSZAcTG-tcBXdkxKO"
+    },
+    {
+      "id": "120363418104681428@g.us",
+      "name": "Williez pre school 🤝Edpore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1O_NbuPJ6yYcgohjuQXzmYm_ARfIV_uuK"
+    },
+    {
+      "id": "919481650369-1576700190@g.us",
+      "name": "Planet Bloomingdale",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1uATmxIYR-VBDDAQn4pVzaKf42n7sBVHQ"
+    },
+    {
+      "id": "120363414546763251@g.us",
+      "name": "Curious Pandas 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1WshiUK36wJv26-TqLigqKiyjnrDhWeyp"
+    },
+    {
+      "id": "120363263298574045@g.us",
+      "name": "Interactive 🤝Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1cWdvH6fc6DbIk3Fxd-AOHNwEK87mwf5C"
+    },
+    {
+      "id": "120363349619199762@g.us",
+      "name": "Rising Stars 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1GBOC1ODx6_mUQUdp4S2n0ROSFz10Rb01"
+    },
+    {
+      "id": "120363412693563636@g.us",
+      "name": "Nele Pre School 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/11RR79pXgZxNiuuau0-ceq6xaw1pEu6Kt"
+    },
+    {
+      "id": "120363402678936366@g.us",
+      "name": "TN Darshan 🤝 Edplore ",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363421021385284@g.us",
+      "name": "Saphlings Patashaala🤝 Edplore",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363404999735831@g.us",
+      "name": "TN Tweety Play 🤝 Edplore",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363357118339341@g.us",
+      "name": "Evergreen 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/16Eqz9UrwGJxk-PWCYG7ImyexHrgyXTxW"
+    },
+    {
+      "id": "120363393434416558@g.us",
+      "name": "Tinies preschool🤝edplore",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363367405602734@g.us",
+      "name": "Eraya Amigos🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1yufDxuYRy-A8KP1J0uemH5PR6S_2m80K"
+    },
+    {
+      "id": "120363418555296222@g.us",
+      "name": "Podar jumbo ISRO 🤝Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1I96GFQGs-2ngR6-DozOu__XZnnXr1lqH"
+    },
+    {
+      "id": "120363420487597242@g.us",
+      "name": "CJB Anveshana Kids 🤝 Edplore ",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363364857861087@g.us",
+      "name": "Kidzkollege 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/17EAAgDoiICcM0htYdq8aoxXPazdPndkO"
+    },
+    {
+      "id": "120363349917257415@g.us",
+      "name": "Time Sparks 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1V5HXK6QGKHJw0FmIE-aT7I91PYYVNrS1"
+    },
+    {
+      "id": "120363422383392430@g.us",
+      "name": "TN Flourish kids 🤝 Edplore",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363202618763014@g.us",
+      "name": "Little Masters-Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1oxXR2lpEpNxe5rA8P4bNAIcIMFGwRsKL"
+    },
+    {
+      "id": "120363380601473245@g.us",
+      "name": "Cambridge Montessori 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1ZGwje6FyNu_8oiQ7mMgiPbWndDgAVFuz"
+    },
+    {
+      "id": "120363220278502479@g.us",
+      "name": "Pragyaa 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1mPZy_tW49QBqdVzn4DS0JZPVKoxS1WaG"
+    },
+    {
+      "id": "120363233016957878@g.us",
+      "name": "Glider 🤝 edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1PfC9UG7-O6ksAbUcI-raJRjZKGFnve7F"
+    },
+    {
+      "id": "120363399048956121@g.us",
+      "name": "TN Genius Aero Kids 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/12mSvzfUY_Y_bDAizbobqFQLW5Pemeb3Q"
+    },
+    {
+      "id": "120363332533181050@g.us",
+      "name": "Edplore DTDC ",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363397830781100@g.us",
+      "name": "Kyan International 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1wfygYNLv-5OJtAf5xA65ndKKvaFcGKhV"
+    },
+    {
+      "id": "120363401433729468@g.us",
+      "name": "The Little Latterns 🤝 Edplore",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363047635190041@g.us",
+      "name": "Sambhrama-Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1zwjZhVptRPyvpZmqpHqq8JYfBdOpbBof"
+    },
+    {
+      "id": "120363043316752525@g.us",
+      "name": "Jaanvi-edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1wMqaUHBKFoHlwbP-DfyGKx5GEwkZZMG6"
+    },
+    {
+      "id": "120363385362727403@g.us",
+      "name": "Twinkle Bees 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1f2h7WIh4ll8CyfwLYDR-uFGEjEJCmY8Z"
+    },
+    {
+      "id": "120363040896435604@g.us",
+      "name": "Young Edu World ",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363233651646250@g.us",
+      "name": "Star Kids 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1POS5R7q0dtJtkB2BTElkvVEZTAG1EwSx"
+    },
+    {
+      "id": "120363115295254016@g.us",
+      "name": "MAA Crayons - edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1WncMgu6agS2FymciBQxFeICgdOTIYLGR"
+    },
+    {
+      "id": "120363416399888887@g.us",
+      "name": "Sampoorn 🤝Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/144QkZdXKafiWHNtPSMmA9QwPUtK9F2xo"
+    },
+    {
+      "id": "120363253814039033@g.us",
+      "name": "Golden Miracle 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/14nxI7G3ziId6QAtEoo0kSx60Po2Kz3K5"
+    },
+    {
+      "id": "120363423208821758@g.us",
+      "name": "Edplore 🤝Dream Berry",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363399121550612@g.us",
+      "name": "MAA IQ Genius (Jaipriya Academy )🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1t2Wm-ZEJ6n6o59Gdnn04ujV_FCNqWf-9"
+    },
+    {
+      "id": "120363385662088627@g.us",
+      "name": "GeeKids 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1O3W-Vqvlw0urVdmcf-agp1nR3ofkltWw"
+    },
+    {
+      "id": "120363399737424045@g.us",
+      "name": "BOM Diva Public School 🤝 Edplore ",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363215213956072@g.us",
+      "name": "Arichuvadi 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/12S2YOSTUYNnLlUVTvybKYZ0OQqwHGH1t"
+    },
+    {
+      "id": "120363421021451651@g.us",
+      "name": "Jolly Jumpers 🤝Edplore",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363402370004803@g.us",
+      "name": "Time kids Hongasandra 🤝Edplore",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363389797425864@g.us",
+      "name": "Kids International 🤝 Edplore ",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363420458838226@g.us",
+      "name": "Little joys Montessori 🤝edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1S8V6mfL4RTjHOTR1yDx_mpGZF5bN9flz"
+    },
+    {
+      "id": "120363354070038755@g.us",
+      "name": "The Happy Hearts 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1g1Oi9Gj-eZq-_tUtJDsxhhEE_Z0-LNE3"
+    },
+    {
+      "id": "120363420505893168@g.us",
+      "name": "TN Eurocon Mom 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1I7QdpYB0B1Y6wWXTs10OQet5vn2ap35N"
+    },
+    {
+      "id": "120363400668754008@g.us",
+      "name": "MAA Shree’s Playschool 🤝 Edplore",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363180980874102@g.us",
+      "name": "BLR Cambridge - edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1N6sIb5z-A0iBuL8OUOBMWu4MVb0BRbJp"
+    },
+    {
+      "id": "120363417375314758@g.us",
+      "name": "TN Golden Petals 🤝 Edplore ",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363405956875230@g.us",
+      "name": "TN Sri Viruksha Montessori 🤝 Edplore",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363361982949450@g.us",
+      "name": "MAA Minminiz play school 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1smZyp4qrDFa2B9-NSlOLIMIEUxF4O_np"
+    },
+    {
+      "id": "120363343037262840@g.us",
+      "name": "Rainbow Montessori School 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/12_C0R-wc1I3MgG8vaIM92F-Gyd6HvbIn"
+    },
+    {
+      "id": "120363399940787022@g.us",
+      "name": "Stencils preschool🤝edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1_stJeh878xJHPkMkGgzGMoOmwKnaeCGV"
+    },
+    {
+      "id": "120363418477609362@g.us",
+      "name": "Times Kids (Alpharoots) 🤝Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/14-3cRgjHO78uNj2tuBgYfDlNc_bvButS"
+    },
+    {
+      "id": "120363418295523619@g.us",
+      "name": "Edplore 🤝 Podar Juniors",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363359007166382@g.us",
+      "name": "HYD The Leap Kidz 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1872xuD9gKj8AOVIpGQ_zsmB3IZmoljX3"
+    },
+    {
+      "id": "120363020480950470@g.us",
+      "name": "TENDER MOMENTS-EDPLORE",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/16JKBe6F7JU9yM07pLwLu6yE2KBJKB6j0"
+    },
+    {
+      "id": "120363405398876082@g.us",
+      "name": "Qurious Lil Mindz 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1vpYm3dt8fV_r_5Xomp8ZS2BeNwpeMaxD"
+    },
+    {
+      "id": "120363372933515852@g.us",
+      "name": "Active Mind 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1TOe4OUCRgH3NXZRXsKP8eAWnapPGVwGq"
+    },
+    {
+      "id": "120363339044380746@g.us",
+      "name": "One Nation 🤝 Edplore",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363400377788243@g.us",
+      "name": "MAA Twinkle Kids 🤝 Edplore ",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363406745313570@g.us",
+      "name": "Vidya Sagar 🤝Edplore",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363410855856344@g.us",
+      "name": "HYD Clara  🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1m6NkIum4fQ13wB9RjImkHriAq5LcFaS7"
+    },
+    {
+      "id": "120363268019966978@g.us",
+      "name": "Tulips 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1RJdLVEVbt-CunwjtRp7Oe_qWJ-hK128h"
+    },
+    {
+      "id": "120363277592650068@g.us",
+      "name": "Smart India 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1KxiQRIam_2J001C4-LWTPd3F28OLQAs5"
+    },
+    {
+      "id": "120363365830837122@g.us",
+      "name": "MAA First Feat 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1LZESBR2GeOO8iQMsxgxOoMuco45wPjsd"
+    },
+    {
+      "id": "120363228672482283@g.us",
+      "name": "Aikya 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1pdnocrO8zw7e2YXnEaWjvbXILCcUafI-"
+    },
+    {
+      "id": "120363412873665365@g.us",
+      "name": "SREE KIDS 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/18q_pM7k_uUFTmoHdRDOmnP6fN4s6uinD"
+    },
+    {
+      "id": "120363156552277455@g.us",
+      "name": "Rishi Valley - edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1n34BMtg-XOYgulSQal3OTBlyyWLbruYC"
+    },
+    {
+      "id": "120363416406007220@g.us",
+      "name": "(IXM) HAPPY bIRDS 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1BEaYvw5WknzIVtK-aPs4D8FVSR4SuIBc"
+    },
+    {
+      "id": "120363403146862510@g.us",
+      "name": "MAA KIDOOZ 🤝 Edplore",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363388143255571@g.us",
+      "name": "Brite kidz Vijaypura 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1vkMELQdYQj3FQj8xbyQo6PyfPtoNfqq7"
+    },
+    {
+      "id": "120363228962190708@g.us",
+      "name": "Arka 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1M1TCs6WnbCGV2lNJJV33qBSKi5C6kYyY"
+    },
+    {
+      "id": "120363400595248992@g.us",
+      "name": "MAA Kidz Wonder World 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1DMigXNjIm52iDvM7Bhd6_zOwgQwspwW-"
+    },
+    {
+      "id": "120363240442602694@g.us",
+      "name": "Ziro 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1GYGKB1YgX9ddmB7d6Id63RVirF7AluHn"
+    },
+    {
+      "id": "120363044970716608@g.us",
+      "name": "Kids Castle-Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1R0hMVZMUDL--uy1Xdmyu062yjaI8NLMZ"
+    },
+    {
+      "id": "120363379270458570@g.us",
+      "name": "MAA Creative Kidz 🤝 Edplore",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363048625811009@g.us",
+      "name": "Jumboo-Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1Az0K70MgrPTkwvTaIflV1MEu8fFI4Fjy"
+    },
+    {
+      "id": "120363223076279194@g.us",
+      "name": "7 Plus 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1hithcRVwgohs87_h54toT1YJRazWXPiD"
+    },
+    {
+      "id": "120363355408744170@g.us",
+      "name": "Toddler's Castle 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1XqLsF-prOfbDuRsQ99jHNZCELMUxs4An"
+    },
+    {
+      "id": "120363298985294913@g.us",
+      "name": "SSCT Bright Kids 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1QEA3QkHJT6-0QAgvWcdRWMygYa0xWPPL"
+    },
+    {
+      "id": "120363403415613878@g.us",
+      "name": "The One Nation 🤝Edplore",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363306015308513@g.us",
+      "name": "Kalai Kids 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1p3MSSIaQmgcdG6xI7voPBTFAYniyVbcm"
+    },
+    {
+      "id": "120363401027409604@g.us",
+      "name": "Aura Cubs Mangadu 🤝 Edplore",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363417440106823@g.us",
+      "name": "Little Pumpkien 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1V_amvfEBDTXfv9QxZGJX7qzZDFiS8kWZ"
+    },
+    {
+      "id": "120363222764851435@g.us",
+      "name": "Creative 🤝Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/12sPvSdkbLNPzJhPzUoXZrz3iyD5B7oA6"
+    },
+    {
+      "id": "120363373489483120@g.us",
+      "name": "MAA Toddler Zone 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1oifFD1g5R1Mw938Zon6UgJ3sScDXjzW1"
+    },
+    {
+      "id": "120363218779319389@g.us",
+      "name": "Little Blossom Buds 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1HsfYrnQ6yqeo9qwl3W4cSW2ZQ-kvopkI"
+    },
+    {
+      "id": "120363399835245934@g.us",
+      "name": "Bridge Play School 🤝 Edplore ",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363391205578538@g.us",
+      "name": "Aaron Mirajkar School 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/16O02NouhUZW1JXPePp8t-R2iZkZUSD40"
+    },
+    {
+      "id": "120363208532815673@g.us",
+      "name": "KIZZARDS 🤝 EDPLORE",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1CWJ9ky5jb3Y2RRXB1drkyNZs98yEAAez"
+    },
+    {
+      "id": "120363148672547327@g.us",
+      "name": "Blooming Buds - edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1d5aJLFFcRX6XkNGZCoWpkxBLR4LyLNU2"
+    },
+    {
+      "id": "120363418977851252@g.us",
+      "name": "Juniors Galaxy 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/11iUsUBJ0j8-WM3_x46fWjlYjlIRv9ZdM"
+    },
+    {
+      "id": "120363279210338510@g.us",
+      "name": "Our Little Wonders 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1oQq-jXfTOOqwzTsd-RF6dZz9hzvReAxW"
+    },
+    {
+      "id": "120363363533681568@g.us",
+      "name": "CK Preschool 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1ZohKLIj3D-Tmwndex01Z4BgzFsEMdLuZ"
+    },
+    {
+      "id": "120363393115656406@g.us",
+      "name": "Bright Eyes International 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1Pcsys9PT2JsdPxEed8RaqFAaxBkvryJC"
+    },
+    {
+      "id": "120363405106124345@g.us",
+      "name": "The Big kindness tree🤝 edplore",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363378768435954@g.us",
+      "name": "MAA Kavi4 Kids 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/10W3XpKwQ4nIiBFm_XVJ-dkP-isiZ8gzk"
+    },
+    {
+      "id": "120363391943916891@g.us",
+      "name": "Shri Shaileshwara Vidya Kendra 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1BhTeTKUH3KbZI2KlTPBu3u67IGs8lCN2"
+    },
+    {
+      "id": "120363418407582851@g.us",
+      "name": "Little Playhome - Edplore",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363049132286823@g.us",
+      "name": "Edplore - Small Steps ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1JmpLQ9gx0mU5UwtoqVxKqYspBIa8wFn7"
+    },
+    {
+      "id": "120363377218023188@g.us",
+      "name": "Spring 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1u59omc4RmOLxMH8FJzU5ukD9iSVOYprZ"
+    },
+    {
+      "id": "120363420467302880@g.us",
+      "name": "IXM Little Kids 🤝 Edplore",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363371127795783@g.us",
+      "name": "ALPHA GENO PLAY SCHOOL 🤝 EDPLORE",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1gCRUtY5lzQ_J0CmeONUR4cK3uzwzbL37"
+    },
+    {
+      "id": "120363417384036700@g.us",
+      "name": "MAA Aathichudi 🤝 Edplore ",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363333444124581@g.us",
+      "name": "Abhayas Montessori 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1mIDx4k7ovuI1K_pjCFecGuC9q_hzO5JC"
+    },
+    {
+      "id": "120363252761516784@g.us",
+      "name": "Kids Circle 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1Mygd_ODbmpwBZc2BMFnE6dE5yG1RRzY8"
+    },
+    {
+      "id": "120363399674049296@g.us",
+      "name": "Samarth Excellence 🤝 Edplore ",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363046105111368@g.us",
+      "name": "Butterfly-edplore.org",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1SOvUwWVHrLdhj7-vwTY9PXluonAA5kL3"
+    },
+    {
+      "id": "120363357490877580@g.us",
+      "name": "Gaana Academy 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1rkrPwkOeQW0MFcWSIyF09-h5fvfMBN8d"
+    },
+    {
+      "id": "120363047786822363@g.us",
+      "name": "Edplore - Prarambh school",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1a62zWP31QgrMwFMBGa-1W0LPcvmrWtY6"
+    },
+    {
+      "id": "120363220722518597@g.us",
+      "name": "My First Step 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1YVVzNjl49IT2cXL4Hku7ikQJ-aeHMRWl"
+    },
+    {
+      "id": "120363224811982200@g.us",
+      "name": "EDU WEE PRE - SCHOOL 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1ww7BVUpub5T7elMq2AdoOjzEUd80VOsN"
+    },
+    {
+      "id": "120363424553315937@g.us",
+      "name": "Little Spring Buds 🤝Edplore",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363397766142796@g.us",
+      "name": "Kallavar 🤝Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1HVpaLV32eLW703RqsbeC7-izBIvX5VKw"
+    },
+    {
+      "id": "120363377177899958@g.us",
+      "name": "Minminiz International 🤝 Edplore",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363402331476215@g.us",
+      "name": "MAA Slate Junior 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1SxMhGkmQ6mW0P0D-8FZ4XgPJtdLqeMUu"
+    },
+    {
+      "id": "120363258090486024@g.us",
+      "name": "Sun Bloom International 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1kAIS7k7Rhf9Le7vhKOKKCM2VxHiQ-1kF"
+    },
+    {
+      "id": "120363377815312741@g.us",
+      "name": "Ingineous preschool🤝edplore",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363229181582114@g.us",
+      "name": "Kalpa Preschool 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1yO0AN8KxGNM2DSSAumN_Wge9jSR-lO8m"
+    },
+    {
+      "id": "120363419622643757@g.us",
+      "name": "Creative Kinder 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1EggeXNkISf5OECIjQQ-O-eev6IBwJ-KV"
+    },
+    {
+      "id": "120363404233854775@g.us",
+      "name": "KC Dasarahalli CD 🤝 Edplore",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363419405646802@g.us",
+      "name": "CJB Hello Kidz 🤝 Edplore ",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363400560118058@g.us",
+      "name": "Kindle clouds preschool🤝edplore",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363370142552225@g.us",
+      "name": "Sudarshan Academy 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1ruZNPo-HiFRNNb6zse4e2Ri97tFHJINP"
+    },
+    {
+      "id": "120363371353075014@g.us",
+      "name": "Just for kidz🤝edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1tjph3atqNhuXtjkuNv6lN8E19RUXhVSU"
+    },
+    {
+      "id": "120363220173268026@g.us",
+      "name": "Swarna Jyoti - Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/14WurUNVJf1C0cij-GMgLRLYRUmLP12qZ"
+    },
+    {
+      "id": "120363251688580513@g.us",
+      "name": "Vidhai 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1QCcEc4foEg-OlTiCPCqqmzh390DgWiGv"
+    },
+    {
+      "id": "120363218104302377@g.us",
+      "name": "Dewdrop/DeJo 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1Qf7E5epS8jeL-sGl6J84tsCGbZw0ZXdZ"
+    },
+    {
+      "id": "120363265780677474@g.us",
+      "name": "Rose Mount 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1RE1pylwMXjUkWNLYmQ9AvExnR8KWu6Vl"
+    },
+    {
+      "id": "120363356010558270@g.us",
+      "name": "Little Rubik's 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1eggRkaDzi5AKESyfU_19YNPoUU1n3KT7"
+    },
+    {
+      "id": "120363401825807215@g.us",
+      "name": "Wisdom Tree 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1PY2Ldv7xl38luP4hQjsuF_fChzea4zXd"
+    },
+    {
+      "id": "120363237445009577@g.us",
+      "name": "Spark - edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1fXy5WZPbVOUT_z7KR6r-airGNLNVFou9"
+    },
+    {
+      "id": "120363418794521801@g.us",
+      "name": "Podar jumbo( Nagarbhavi) 🤝Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1a_bf90heUKr5FZWkSsTNvbIbVMcu8C2G"
+    },
+    {
+      "id": "120363405811808553@g.us",
+      "name": "I School 🤝 Edplore",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363381877133310@g.us",
+      "name": "Wee Feats 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1AozcUVDiD035JfHD4GKHmpSZv3Jnk3Uq"
+    },
+    {
+      "id": "120363389215108680@g.us",
+      "name": "DIYA PLAY SCHOOL 🤝 EDPLORE",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1twnEBW7kOf7uBC3N2mbrIC35Ay22nsPU"
+    },
+    {
+      "id": "120363423926524179@g.us",
+      "name": "TN Sparkle CD 🤝 Edplore",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363115289213582@g.us",
+      "name": "Daffodil - edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1DD6toXc9qC-CImxk33JyDKXRkCWpdqwG"
+    },
+    {
+      "id": "120363359285575812@g.us",
+      "name": "BLR Kiddies World 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1yEvs3n5cT-j1g7lcq0DmtxF2JwNBQjZ4"
+    },
+    {
+      "id": "120363370786521100@g.us",
+      "name": "KC Narayanapura 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1qe7y04fG62cmnoh2qRrZJ-dC1BBUx_nG"
+    },
+    {
+      "id": "120363418310026023@g.us",
+      "name": "Orange Kids 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1sByolrfwdPU5PgVZxjZNh6ZHL2P9dbxp"
+    },
+    {
+      "id": "120363398542269759@g.us",
+      "name": "KC Byrathi Branch 🤝 Edplore",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363419191514050@g.us",
+      "name": "TN Early Expression CD 🤝 Edplore",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363423196308506@g.us",
+      "name": "Akshay euro kids hubli🤝 Edplore",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363422551211214@g.us",
+      "name": "KC Yelahanka 🤝 Edplore",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363422585115091@g.us",
+      "name": "First cry intellitots 🤝Edplore",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363401830817738@g.us",
+      "name": "TN MyMoo's Preschool CD 🤝 Edplore",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363386474453749@g.us",
+      "name": "Shikshan 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/14jZoCu1BFfGFtyJ2KvUFMLuT5qo5cd_0"
+    },
+    {
+      "id": "120363423377737856@g.us",
+      "name": "Yuki Pre school 🤝 Edplore",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363421794168203@g.us",
+      "name": "TN DheeSha CD 🤝 Edplore",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363382197026232@g.us",
+      "name": "Golden Grace 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/12dLj3OU2kNMBShzn5mlb2Pfbb9Ztryct"
+    },
+    {
+      "id": "120363419933939245@g.us",
+      "name": "Edplore The Vibrant kids preschool",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363417718872695@g.us",
+      "name": "MAA Wow Kids 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1WkMvgI3r_d7VCIxcRxKA3E-HNyspnwFD"
+    },
+    {
+      "id": "120363423052779762@g.us",
+      "name": "Vibrant 🤝Edplore",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363405368076556@g.us",
+      "name": "TN CJB London Kids CD 🤝 Edplore",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363229055740697@g.us",
+      "name": "Kinder Joy 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1EbTNbXoQRi4apacUTpxul8lBZLbV68O0"
+    },
+    {
+      "id": "120363415918443332@g.us",
+      "name": "CJB AADV Play School 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1V7870m_7VAsPURqU6igGK92b6Rn4-61E"
+    },
+    {
+      "id": "120363378871391460@g.us",
+      "name": "Spartan kids 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1kCnBTTQuT44lZYx-FKzMMeGbhI8vm2cI"
+    },
+    {
+      "id": "120363335565751813@g.us",
+      "name": "Chennai Cambridge 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1CJsvxz14vM2vpt5_ZRU3HNgJI_d1Ei_d"
+    },
+    {
+      "id": "120363250612279856@g.us",
+      "name": "MAA Alphaa Kidz 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1vif_z0vPEOVcBQouqlJcuJtJ2j0jUoR3"
+    },
+    {
+      "id": "120363256062992904@g.us",
+      "name": "RDR Global Preschool 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1WdGjTNGLxHooQS99zXBHQP56_OaQw2Ms"
+    },
+    {
+      "id": "120363422667845938@g.us",
+      "name": "TN Star Bell Kids 🤝 Edplore",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363418920355816@g.us",
+      "name": "Greenwood group of schools🤝edplore",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363403269452417@g.us",
+      "name": "TN Max i Mom CD 🤝 Edplore",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363420765297545@g.us",
+      "name": "TN Mom's Preschool (CD) 🤝 Edplore",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363209713846480@g.us",
+      "name": "Seekers Bay - Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/13w1aKzYDTuoZHqjyHGuePngyklopy0Qt"
+    },
+    {
+      "id": "120363404108695984@g.us",
+      "name": "TN Eden Preschool CD 🤝 Edplore",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363404354832065@g.us",
+      "name": "TN Dreamyy World 'CD' 🤝 Edplore",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363224857155230@g.us",
+      "name": "SV High 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1jiHUVojD62ELOUP7cXxnPk--bH1XA-Ba"
+    },
+    {
+      "id": "120363422649745700@g.us",
+      "name": "Nandini_Euro Kids Hubli 🤝 Edplore",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363186685145001@g.us",
+      "name": "Awesome Dolphin Kids🐬 🤝Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1cs6LyzY9hFQYL8vqRQ0QxlFWpLXDRxmZ"
+    },
+    {
+      "id": "120363037813861833@g.us",
+      "name": "YWI-Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1eKER2oB3rH7EdRvdDJKxq8yvGMDRoscq"
+    },
+    {
+      "id": "120363396009606513@g.us",
+      "name": "Daphne (BLR) 🤝Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1-FNOk72bFCDcAhZjnfFSxewb9ad9Tb7U"
+    },
+    {
+      "id": "120363403775020075@g.us",
+      "name": "TN DheeSha CD 🤝 Edplore",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363421813612234@g.us",
+      "name": "TN DheeSha CD 🤝 Edplore",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363384914124500@g.us",
+      "name": "Pune Kinderland 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1i9mDIgbKIlE_eJsIJ7nhViY6dJANfeUR"
+    },
+    {
+      "id": "120363318806273931@g.us",
+      "name": "Brundavana Kids 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/18L52joOMFe8xgmhV50MuqQYa_my43MBX"
+    },
+    {
+      "id": "120363385175597426@g.us",
+      "name": "Star kidz 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1zoEtnSN_ld0W9afFz4PMmrhNhxOylFRb"
+    },
+    {
+      "id": "120363420198157400@g.us",
+      "name": "SNS Discovery Den - Edplore ( PUNE)",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363419871250787@g.us",
+      "name": "Krishna pre school 🤝Edplore",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363348849426618@g.us",
+      "name": "Mahavidya Shishukul 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1IPKPwTN52Rq4cR1HrTgwcfF2GzNrmN7v"
+    },
+    {
+      "id": "120363047603695884@g.us",
+      "name": "Edplore.org - Ray's",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1A-arm5mkHtdCERNdglGopI8ehpfdmoc_"
+    },
+    {
+      "id": "120363419515168139@g.us",
+      "name": "IXM Little Champions 🤝 Edplore ",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363235677115422@g.us",
+      "name": "Bright Kidz🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1PBYvjwl197pV-4qL71DrrdA8_dGp_jAo"
+    },
+    {
+      "id": "120363417980601769@g.us",
+      "name": "MAA Sprouts & Shine 🤝 Edplore",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363401541837382@g.us",
+      "name": "MAA Priyam INTL 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1R6c2c25Is-3hybLPFR9q2_32s2XZROPe"
+    },
+    {
+      "id": "120363235887557908@g.us",
+      "name": "Baby Doll 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1gOv6kIyuNDRDVoKrvOeb1t-V_q8mc63T"
+    },
+    {
+      "id": "120363263389877913@g.us",
+      "name": "National School🤝edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1vmJVSbY0n0Bvcg-V7ySRDa1kyh0CZOCc"
+    },
+    {
+      "id": "120363339774403319@g.us",
+      "name": "Klimb Preschool🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/10ss_LLu6zQOSDWR69gm8RxOnpOQQeA8K"
+    },
+    {
+      "id": "120363400429412741@g.us",
+      "name": "MAA Rize 'N' Shine 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1soVm0C8bBK8J-ZwKATz4EDeWKBxwHATM"
+    },
+    {
+      "id": "120363390621108926@g.us",
+      "name": "Rainbow Pre school🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1Gg3j0MknMo8bwl-bHVyLZ2GNn_87cYv1"
+    },
+    {
+      "id": "120363403122538586@g.us",
+      "name": "TN Our Wonderwingz 🤝 Edplore",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363401153293102@g.us",
+      "name": "Bodhi Vriksham🤝Edplore",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363359159237366@g.us",
+      "name": "MAA Prim Buds Garden 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1Ga-mqjpfOSzirkNguglwW8IDDQZa4Tkd"
+    },
+    {
+      "id": "120363243951347179@g.us",
+      "name": "Bodhi Kidz 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/155rp0Vq39x6s6hL0x4ehXR0GQrNAVhj6"
+    },
+    {
+      "id": "120363301088730248@g.us",
+      "name": "Basilwoods 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1c8IAibVJz4fq0_LVAU7uid3Li1j-yFRE"
+    },
+    {
+      "id": "120363420290654448@g.us",
+      "name": "MAA ESRO Kids 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1zX_eD4BI1WKPn0bxa0--XTK0dXyhyxr2"
+    },
+    {
+      "id": "120363082539855622@g.us",
+      "name": "Ankuram-Unplug-Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/18ODjLVII47KolZpm0yJ3z0Kopqe5l3kE"
+    },
+    {
+      "id": "120363402394353658@g.us",
+      "name": "VV kids 🤝 Edplore",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363409323055108@g.us",
+      "name": "Gyan vikas preschool🤝Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1D0YkTROnEUn_MCJBb8RR-Fc9rHdUdMR9"
+    },
+    {
+      "id": "120363209344535339@g.us",
+      "name": "Unnati 🤝edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1yXWBvhn1u2Jb7_pf_b-Tu_52v4Vkb9w1"
+    },
+    {
+      "id": "120363418782600181@g.us",
+      "name": "Little me 🤝 Edplore",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363417557477740@g.us",
+      "name": "London kidz preschool🤝edplore",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363362247482376@g.us",
+      "name": "Lotus 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1TUxc1A81OxSf13EetWz8ViKcjhLmA2d5"
+    },
+    {
+      "id": "120363412315646877@g.us",
+      "name": "Happy Days 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1V3oopc3OiQOCkzwjZvVbgIW3S6t4C-Ye"
+    },
+    {
+      "id": "120363401775059691@g.us",
+      "name": "2A kindergarten 🤝 edplore",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363384251187055@g.us",
+      "name": "CJB Prada's Play School 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1WZ_r7UaMX8e9rWkw_a3g3uQq7P-C_VLG"
+    },
+    {
+      "id": "120363418464281550@g.us",
+      "name": "Nido - Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1bba21x6bha_F9G8WiCkccQzzZMNKouto"
+    },
+    {
+      "id": "120363398677627986@g.us",
+      "name": "IXM Nesam 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1rA5sdYq_EMZFOcXkIsJphD8tjNqMlSYr"
+    },
+    {
+      "id": "120363233132297253@g.us",
+      "name": "Young Learners 🤝 Edplore",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363400937910247@g.us",
+      "name": "Isha Preschool 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1FLiKAGOb7UvCTuM0xaLxpRWj3YvhIUHj"
+    },
+    {
+      "id": "120363419011533220@g.us",
+      "name": "Riya pre school 🤝Edplore",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363405955788418@g.us",
+      "name": "PlayWorkz International 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1ifevoi8GBN6ka4RhmomnIIomvcH2eeh1"
+    },
+    {
+      "id": "120363420893775800@g.us",
+      "name": "Testing Group",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363355087750438@g.us",
+      "name": "Kids Square Early Years 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1VqkJ0g1e8Sl3CBPCifzFsZhGtmu2ym2X"
+    },
+    {
+      "id": "120363402683914400@g.us",
+      "name": "MAA Smiley Kids 🤝 Edplore ",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363387258975547@g.us",
+      "name": "Tods & Den 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1y95OpY_Mar86mM_2VMjwHq_MG6S8dhvg"
+    },
+    {
+      "id": "120363405890498471@g.us",
+      "name": "Busybees Academy🤝Edplore",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363416409138872@g.us",
+      "name": "HYD Busy Bees 🤝 Edplore ",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363375786921465@g.us",
+      "name": "Mahan Kids 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1BDjlOHcLJRWwyXtYhTaHNnI2WNCiiU1q"
+    },
+    {
+      "id": "120363418947505977@g.us",
+      "name": "Arihanth - Edplore",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363420070086562@g.us",
+      "name": "Mary's Little Lamb 🤝 Edplore",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363372975730534@g.us",
+      "name": "CJB Butterfly 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1GBlhZYwG_iqtCNaiEaAnwrIc7VQfQQLr"
+    },
+    {
+      "id": "120363370958015896@g.us",
+      "name": "Little Kiddos 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/14x3bNgCA5D50HH_lxvBEEGEbYVvvl-RK"
+    },
+    {
+      "id": "120363258511058813@g.us",
+      "name": "The Blue Bells 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1799Z7aQuwuezo-KL4rqi22TQTL8uqFDd"
+    },
+    {
+      "id": "120363289642270299@g.us",
+      "name": "Akshara Little Bees 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1yph9oA_27YPbfe08zE-U97H5S6xaD5aN"
+    },
+    {
+      "id": "120363350416223575@g.us",
+      "name": "Cool Geniuses preschool 🤝Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1XZnlBn5GNmUS4UsudEdTrPKAr44klM22"
+    },
+    {
+      "id": "120363351933822959@g.us",
+      "name": "Samridhi Kids 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1h6dSNqL3Ojq3MMfv2fafvdHjmfjv11NW"
+    },
+    {
+      "id": "120363203804986160@g.us",
+      "name": "Yellowbells 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1v9hTKSeVBy0NpM_kRthc1Rfj4rbvSNlq"
+    },
+    {
+      "id": "120363377560133530@g.us",
+      "name": "Sapthagiri🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1PyboL21vEFy6fzGdu_YiVrkKeL1QbRhE"
+    },
+    {
+      "id": "120363408749523279@g.us",
+      "name": "Wow kids 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1XYzXu0bHXOI5ZVUqWQVHRvxSfm_j06iU"
+    },
+    {
+      "id": "120363401595179024@g.us",
+      "name": "Wonder sprouts 🤝Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1fCvoC3xm5c207-Jf2t5uQOIm4AQqJDzE"
+    },
+    {
+      "id": "120363368937029980@g.us",
+      "name": "Wise kids  ,PIXART ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1Sd06TKCifo93bsGKA8Q1dlSF-X4_Kc6y"
+    },
+    {
+      "id": "120363318737369534@g.us",
+      "name": "Wisdom Twinkling Stars 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1jGQReEt169PlZGK-cH4vJNhbVeqRYOy6"
+    },
+    {
+      "id": "120363385495277666@g.us",
+      "name": "Wisdom kids🤝edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1xJrYd2nGP5nTr0mek7U_7kQATNUNM5P4"
+    },
+    {
+      "id": "120363395748877761@g.us",
+      "name": "Willow Woods 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1HZKuyMOEm2lcyIWT0u35fBLfXBLd5Orn"
+    },
+    {
+      "id": "120363387287981152@g.us",
+      "name": "Whiz kingdom 🤝Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1n0xi7sWsYF6GXEiBLi57vuaYoLhn9-N0"
+    },
+    {
+      "id": "120363198135518135@g.us",
+      "name": "Way - edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1Q5omDR8jFbFpERnJxf9T23JE_N8TNG6x"
+    },
+    {
+      "id": "120363369578786099@g.us",
+      "name": "Viruksham vilayattupalli  🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1jDQO2mD1EUBA2ygPfwYHXkkSqWDFeWOO"
+    },
+    {
+      "id": "120363369961097733@g.us",
+      "name": "VIP Kids Cube 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1Klmgrg9RNWWbWnFqacX6cn89SoMG6oIF"
+    },
+    {
+      "id": "120363319989787255@g.us",
+      "name": "Vijay Smart Kids 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/19EufmzMwA3p0-LLlB-ZNyHYqY0Jx9j9W"
+    },
+    {
+      "id": "120363337689621441@g.us",
+      "name": "Victory Champs 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/15-PmLcG-rwweEhD3BsyIETu8QSGe8r0Z"
+    },
+    {
+      "id": "120363398176505866@g.us",
+      "name": "Vajra elite montessori🤝edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1I9oHeHOBpxZCIYq8jv5i_uJI6Id1gzpl"
+    },
+    {
+      "id": "120363335088131114@g.us",
+      "name": "Vagdevi Gurukula 🤝Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1O2u3lsIWA5_nNNFC7YUj63IbVO3TmEGZ"
+    },
+    {
+      "id": "120363279510866660@g.us",
+      "name": "V Kids 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1EpI9RxqlrFm_LSuH1iSqjAdZfOnJfUSR"
+    },
+    {
+      "id": "120363321854756250@g.us",
+      "name": "Twinkling Kids🤝Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1iBHzHQ_sNUXaciWxgg_76LsBU4Th6rn5"
+    },
+    {
+      "id": "120363384611175883@g.us",
+      "name": "Twinkle Kids 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/19FASBk23hxokuOWIu73losBv_RpXkBFX"
+    },
+    {
+      "id": "120363317766759420@g.us",
+      "name": "Toddling tots play school 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1VNVNvJ4trX_VNJtGMlQVWHv-z4iCphxk"
+    },
+    {
+      "id": "120363204472790426@g.us",
+      "name": "Tiny Wonders 🤝 edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1_S7N8UAtrJY7jj0ookfS3Fo9M3T8QM5y"
+    },
+    {
+      "id": "120363327944080690@g.us",
+      "name": "Tiny toess🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1PlUOmWn3NYIoA1JgggaeukuFNj7vtq3u"
+    },
+    {
+      "id": "120363046790074037@g.us",
+      "name": "Tiny steps-edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1EBjXnNZth7x7kKGj8TPMCW0w0rFRB85d"
+    },
+    {
+      "id": "120363388463217655@g.us",
+      "name": "The New Public School 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1lLFclL5ObIFhA-T4ykcVERZVwFnw_BnH"
+    },
+    {
+      "id": "120363335302378768@g.us",
+      "name": "The Child's Kingdom 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1Ka-Di9YTkVaVMpyW20S5e06-Gxs4GZdk"
+    },
+    {
+      "id": "120363371506118651@g.us",
+      "name": "The Beatus Kids Academy 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1OPC9zPsQWFXO0u1meU0a_ZbxWBxWLOfP"
+    },
+    {
+      "id": "120363380693986905@g.us",
+      "name": "SWRL 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1nP0qHnAPIpCwLIrwQc0fyQk2nvOiJl6x"
+    },
+    {
+      "id": "120363398880220638@g.us",
+      "name": "SV Mitra school🤝edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1raziYSiIVHPZN_gtEVTjgkkTotZsNzh8"
+    },
+    {
+      "id": "120363378613094804@g.us",
+      "name": "Sunshine Smart Kids 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1FJB1eBAxxGshJTyIe9Pf27nOBDxlNcbf"
+    },
+    {
+      "id": "120363394937081194@g.us",
+      "name": "Sunny Champs🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1MkIB70H3-3kV7RsYXgqpHNNeoMufM3oQ"
+    },
+    {
+      "id": "120363376501513604@g.us",
+      "name": "Step by Step Preschool 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1vsGLATJ6aVuSzEmGXFyJdCSrVv2b5eBN"
+    },
+    {
+      "id": "120363364584187757@g.us",
+      "name": "Star kids International 🤝edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1YunytlbuzwKFzWLtVWM2zZerMwc2RYHv"
+    },
+    {
+      "id": "120363294468271836@g.us",
+      "name": "SRUSHTI and Happy kids pre school",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1PfxnlhfWG9CsBoMe4saC8Qds2rljatlh"
+    },
+    {
+      "id": "120363241668373675@g.us",
+      "name": "Sri Kidz 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/19oa7Z76vzo7GFLJuN10iqwsg9-56kCGt"
+    },
+    {
+      "id": "120363340785108836@g.us",
+      "name": "Sri Guruvandana 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/152ZuI-IW8o5m-8xk6f4lh7T2dUQ00kX0"
+    },
+    {
+      "id": "120363349638688884@g.us",
+      "name": "Sonia's Kids World 🤝Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1_Iwu7Q4zCrDwfjCNXBOH32wSqBcp5pYU"
+    },
+    {
+      "id": "120363355666537208@g.us",
+      "name": "Solomon's Pre School 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1MjHSBlB5oufHOapoUoN3XI8hO4HedMTD"
+    },
+    {
+      "id": "120363336207862520@g.us",
+      "name": "Smarts Kids🤝Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1GYuVAYBdRIJ4e0kEDVQBmGIriccYFO98"
+    },
+    {
+      "id": "120363339438763134@g.us",
+      "name": "Smartkidz 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1ctFtfgT80xMNyWziy6FMlcX2cBINPRTl"
+    },
+    {
+      "id": "120363348017782247@g.us",
+      "name": "Smart kids 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/19LK4eklZM8o8JZ_rxvBlcBfydXl5mCOj"
+    },
+    {
+      "id": "120363197206806312@g.us",
+      "name": "Edplore - Smart Kids",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/19LK4eklZM8o8JZ_rxvBlcBfydXl5mCOj"
+    },
+    {
+      "id": "120363374052076848@g.us",
+      "name": "Smart Girafs Preschool 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1ag6q_4o_YcxU_F3mMQps0l2VdJZ3pjgL"
+    },
+    {
+      "id": "120363357193156292@g.us",
+      "name": "Small Wonders 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1AY5uHMaPkfRnqrzs3zri5AVPygstPj4R"
+    },
+    {
+      "id": "120363264158310985@g.us",
+      "name": "Silver Star 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/17hEIe4WXZonbz3cI9VbGSOm8v7a4IMTB"
+    },
+    {
+      "id": "120363375023472325@g.us",
+      "name": "Siddaganga Kids 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1G_e2QX8fIzeenftTuWXA5erugtVWcE0R"
+    },
+    {
+      "id": "120363376842499708@g.us",
+      "name": "Shishwa vidya Niketan Hyd 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1IHR9za7E50OJRDy-73bxctDyjaHxLc7s"
+    },
+    {
+      "id": "120363370388786482@g.us",
+      "name": "Shinning Kids 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1d_2TMAXAxDpzUSt9qJrn2-n6xLG_R5Me"
+    },
+    {
+      "id": "120363400994023940@g.us",
+      "name": "Shining Stars 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/12287F0_jX76tldxs9NU0DcCZEw9_wNLk"
+    },
+    {
+      "id": "120363347983692829@g.us",
+      "name": "SGM School 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1dXI7ZYo9qnkxCvHfS7uhQFTJAKDYqPkM"
+    },
+    {
+      "id": "120363226462646105@g.us",
+      "name": "Saraswati 🤝 edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1-ezIrUkHYe2qKujpDckHFo4K_2FXzU7K"
+    },
+    {
+      "id": "120363387947549227@g.us",
+      "name": "Saphalya 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1Zio_zgHnXA5JBPGxvb08jUrGEnriteu0"
+    },
+    {
+      "id": "120363386947064879@g.us",
+      "name": "Sankalpa preschool🤝edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/10yfb6mSgUJI2W-mUtbyecaEz7p4beKHp"
+    },
+    {
+      "id": "120363378300361387@g.us",
+      "name": "Sandeepany Bal Vihar 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1ugMqh66WH5OEhvzbxGZb2VvgWXB8lx4k"
+    },
+    {
+      "id": "120363415803240448@g.us",
+      "name": "Samvardhan Montessori 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1S883pcFGPvAd-3knL8MxmKnMjw4oSRJJ"
+    },
+    {
+      "id": "120363320186932827@g.us",
+      "name": "Samskruthi Preschool🤝Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/14VxY9BVKuGh7w6p902QbroVfhtBkR7H9"
+    },
+    {
+      "id": "120363416511539741@g.us",
+      "name": "Samskruthi education society🤝edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1uzUQ_I7BEpOL_WOl5xQmceBcaN7MXxhP"
+    },
+    {
+      "id": "120363332452343270@g.us",
+      "name": "Samskriti Montessori 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1BWo0BdTE-WLECEkC1jHMSnVl2nCrcVEa"
+    },
+    {
+      "id": "120363364137792500@g.us",
+      "name": "Samriddhi early learning center-edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1JS1PEpupUKhv5hQoffpib8L8Uv2D-kgT"
+    },
+    {
+      "id": "120363417903166268@g.us",
+      "name": "Safe wings preschool🤝edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1wRWFByisHKPNahsDRzAVNRVcjShv0kMG"
+    },
+    {
+      "id": "120363382876631117@g.us",
+      "name": "Sadhana kids 🤝edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1FpYNg7oAnvU_G-4fGULO0Z0CGXu1WgKf"
+    },
+    {
+      "id": "120363301429843616@g.us",
+      "name": "RS Preschool 🤝Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1_WCo1CdAQt9ng-gUHVrl103YHfb7GL0a"
+    },
+    {
+      "id": "120363320029700329@g.us",
+      "name": "Royal mount 🤝Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1QcXcKA0lbJcp_seBNBBYwD84PRWcqrYw"
+    },
+    {
+      "id": "120363129222947208@g.us",
+      "name": "Rootz n Wingz & edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1id5JXP7J6tZHrX5r3fwmyEj_RVOpehQn"
+    },
+    {
+      "id": "120363333370080411@g.us",
+      "name": "Ritanya 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1-LUEcND_aMIqog6mRFZW6BLg0GFqiaA5"
+    },
+    {
+      "id": "120363296476160730@g.us",
+      "name": "Rio indra nagar 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1IIkMP5LpYPUf5sLcI_LqFXjXRffkUF2R"
+    },
+    {
+      "id": "120363139299593338@g.us",
+      "name": "Rio - Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1OWQBRH6N6Kn2mg2HbnwuhykAmp8bBNah"
+    },
+    {
+      "id": "120363404664484882@g.us",
+      "name": "Rich Brains 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1OyRnh20kQCRtDnvZx2uwDuOrGj546qZj"
+    },
+    {
+      "id": "120363381183707507@g.us",
+      "name": "Rainbow Rays 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1pR8aN6D44gbF0iYN322HnjN5YFp0c3hG"
+    },
+    {
+      "id": "120363381074587308@g.us",
+      "name": "Rainbow Kids 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1xxf3aTzrefwLh0VoJg76JeqtrRlldNyB"
+    },
+    {
+      "id": "120363328751575769@g.us",
+      "name": "Purple Nest 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1Y7zslrvCoG_JCR64-uYCOl1wOe-G4_Oh"
+    },
+    {
+      "id": "120363161366821536@g.us",
+      "name": "Puppet House - Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1T4ubGkjGubhjfuQewXWcKFRj-fDAqW7x"
+    },
+    {
+      "id": "120363302600664635@g.us",
+      "name": "Pruthvi Pre school 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1Puzv6EXMXV18XPoSbW-zeEQTA1qeftGb"
+    },
+    {
+      "id": "120363321999116041@g.us",
+      "name": "Pratama Hejje Kids 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1Lp9Eyw4Fi_qirDngpJ6x-ROItWvauwvA"
+    },
+    {
+      "id": "120363210319322967@g.us",
+      "name": "Pink Apple 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1yAoydOTqfavi0xTgPQpR6JQDr20LJ4MF"
+    },
+    {
+      "id": "120363394638608937@g.us",
+      "name": "Li’l pandas preschool🤝edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1zFfNNcCfL4xjjnDbeiUg1ESwEIn8Y9-t"
+    },
+    {
+      "id": "120363358378506270@g.us",
+      "name": "Panchavati Kidz 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1nTvnWmwPvcq4KV19usOX-Mlu6pFxeGW7"
+    },
+    {
+      "id": "120363362660628032@g.us",
+      "name": "Oxford Kids 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/11d9n8Mi_SZYvIPNIbvAsMgrAVBBL_4Ro"
+    },
+    {
+      "id": "120363317984555534@g.us",
+      "name": "Our Kids 🤝Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/150rDh0dTKG2PD8CCp9gw9a3Ire9Ni6VS"
+    },
+    {
+      "id": "120363311179913403@g.us",
+      "name": "Olive Shoots 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1zwcHBnAuoj1_qVM6XdRzbcwUFraZRXzF"
+    },
+    {
+      "id": "120363252608811860@g.us",
+      "name": "Noble Tots 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1TnxoPCtbW0FpHjapS--O4ID4VdX7Kt84"
+    },
+    {
+      "id": "120363374172472431@g.us",
+      "name": "Niveditha School 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1eCulDNNWdi2GlDYmC5K927-C8U5vshQi"
+    },
+    {
+      "id": "120363372725408354@g.us",
+      "name": "New Oxford 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1TGOShxexFZsc85zTj_tk6e11Mtd2RRTs"
+    },
+    {
+      "id": "120363356030296961@g.us",
+      "name": "New Gen Integrated Preschool 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1xCIvJyll6PRSB_5JpPejXB5gSMAeifvH"
+    },
+    {
+      "id": "120363389177377391@g.us",
+      "name": "NeoVva 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1tTCXT3LSqwO6YNxI97u01yFNsAmTDXoK"
+    },
+    {
+      "id": "120363348435043333@g.us",
+      "name": "Navarambh pre school 🤝Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1YAfnb_9Xj0DXMuybAMj9ZUPaQuyuGgZl"
+    },
+    {
+      "id": "120363415303659742@g.us",
+      "name": "My kids Montessori🤝Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1Z0SyhR5AYMjg1lqTRfLyOrkvdE7auXbh"
+    },
+    {
+      "id": "120363328715805626@g.us",
+      "name": "My Giggle Garden 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1Y-K1Cn_lg9C5DRYYLUeH9ETEMz0p6X48"
+    },
+    {
+      "id": "120363236524842546@g.us",
+      "name": "Mother's Cradle 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1wwrUojVjP8zFHEsBPfl1t443JKYweU6i"
+    },
+    {
+      "id": "120363336443564339@g.us",
+      "name": "MK PRE SCHOOL 🤝 EDPLORE",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1f117y6FyxIH6EAjcbJqXTuml_yamktdw"
+    },
+    {
+      "id": "120363349462011130@g.us",
+      "name": "Medha Kids Academy 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1iBiIJjSyGvhiJzzvn9Hme3ur6wNlYYLu"
+    },
+    {
+      "id": "120363340764757787@g.us",
+      "name": "Medha Bright Beginning 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1QHJCMCNJWCWTXte627xDfA-CC1dnx96i"
+    },
+    {
+      "id": "120363400597536018@g.us",
+      "name": "Mayuri Kids 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1Valmn0DX9LHbvxK7BzY1tNm6ApxWPWIP"
+    },
+    {
+      "id": "120363369049890036@g.us",
+      "name": "Mathi Play School 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1zKPhhVaD53xfwNlCiaAn3WKh7Vpdb97-"
+    },
+    {
+      "id": "120363336765606779@g.us",
+      "name": "Mama's Nest kids 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1oxVkP-fBkR2JqX6sOA3bie54os_7fzA0"
+    },
+    {
+      "id": "120363379166901141@g.us",
+      "name": "Maharashtra Cubs Gurukul 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1CxC9g1RjmVOBI1gcUonT7rJU2fOKlF9H"
+    },
+    {
+      "id": "120363401556787515@g.us",
+      "name": "MAA Touch Sky 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1g_fG9j0IvpvL0E00a67gewTqBsS4h7jx"
+    },
+    {
+      "id": "120363418966608224@g.us",
+      "name": "MAA Tiny Seeds 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1gG1Q99I7BnExkQB5gTfFY0qyXLHV6bXE"
+    },
+    {
+      "id": "120363289732411066@g.us",
+      "name": "MAA Kridashala International 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1U2kMftes8WzpXrpcvgqoJJrJkBVotcd0"
+    },
+    {
+      "id": "120363413159061866@g.us",
+      "name": "MAA Greenma International 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/132Lng2n9Odxi0I93prGvhgTLrFyPqmsm"
+    },
+    {
+      "id": "120363398222238228@g.us",
+      "name": "MAA Ecee Kids 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1jGWb_xE1bq6jLkT4o8Cn1Q3dcuV-1qnB"
+    },
+    {
+      "id": "120363354017127819@g.us",
+      "name": "Lucky Champs 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1yh3tNwlLWcTu0C1IzQuWOVrC4Fkgx-nn"
+    },
+    {
+      "id": "120363374603049247@g.us",
+      "name": "Little Toes playschool🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1UD8ThghIlk_avWPJcuEpnwq7ldClrs_S"
+    },
+    {
+      "id": "120363390862356061@g.us",
+      "name": "Little Star 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1sceKnjWBI5TbFXWTNQtNEeHI6LIOUemz"
+    },
+    {
+      "id": "120363206189339050@g.us",
+      "name": "Little Scientist 🤝 edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1iDkPoaO1mZo5XUKyL07F-12xcrHj7mUB"
+    },
+    {
+      "id": "120363349168902598@g.us",
+      "name": "Little Rock Preschool 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1-52nzEemvvIRxwEV0t5Evff5plFkOic8"
+    },
+    {
+      "id": "120363371780614795@g.us",
+      "name": "Little Junior DPS 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1cxQXZPDEIVjqZIH-af0EAx5H4UC7z_vG"
+    },
+    {
+      "id": "120363392761771274@g.us",
+      "name": "Little Hearts School 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/17C_S-tZyFW5XaWnrBdbGQp5LlK9veWFv"
+    },
+    {
+      "id": "120363417238337869@g.us",
+      "name": "Little Hearts Preschool Hyd🤝Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1v_5KoOZ8jaPV1SOtcxCA7liUgCrp6A9C"
+    },
+    {
+      "id": "120363319222361641@g.us",
+      "name": "Little Hearts Preschool 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/11QORJ2c5KWUvsbn_xiMnA7aCdsokVsiR"
+    },
+    {
+      "id": "120363373884829564@g.us",
+      "name": "Little Heart Kidz 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1P01zuQks9YPe1NWWzfn3FGDpsgmkAhl6"
+    },
+    {
+      "id": "120363392502015971@g.us",
+      "name": "Little Explorer's Academy 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1cXQrIzOOUVcYlDnsr_nLLxA0-mHJAGa8"
+    },
+    {
+      "id": "120363392780656060@g.us",
+      "name": "Little Eminents 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/16F0jih245sjyvNQ8M-AxiXSgxKsrOVen"
+    },
+    {
+      "id": "120363248249797837@g.us",
+      "name": "Little Duckling 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1CWWTNNrxzIDYkOaGZFEZAW7PKzxTUCxy"
+    },
+    {
+      "id": "120363369529179534@g.us",
+      "name": "Little charms 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1MLxb1mSQ32VM6EbRF7K_DyAZawMYmejV"
+    },
+    {
+      "id": "120363337138708777@g.us",
+      "name": "Little Buds 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1_XlrSb-0SREmVmsdeeGka8BYicJpsMv-"
+    },
+    {
+      "id": "120363418341027165@g.us",
+      "name": "Little brains Academy 🤝Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/13NCIJWfg0fAuK0KVLn4GmLE4-IEFNyBb"
+    },
+    {
+      "id": "120363242708132024@g.us",
+      "name": "Little Birds 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1lgXAmM7rVdFmOKXn5w6ovHgyQpu2TzqD"
+    },
+    {
+      "id": "120363362013160546@g.us",
+      "name": "Lilly Putts Preschool 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1-eAcW1zTYXIx7bz0BfQ_RKhU2i_ib8y6"
+    },
+    {
+      "id": "120363354553909168@g.us",
+      "name": "Lil Sprouts Academy 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1NL5HLxxJRt31_xyUN23c_Rko4uVVevTA"
+    },
+    {
+      "id": "120363355089545560@g.us",
+      "name": "Lil Light House Pres School 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1_U7vvrZZ42xXBoe6z3TzK62d3ZvtRizQ"
+    },
+    {
+      "id": "120363368128568254@g.us",
+      "name": "LEXIS KIDS 🤝 EDPLORE",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1yKitNjhy5R8UWVLNRjJn7ONZreyxOjtv"
+    },
+    {
+      "id": "120363374744998839@g.us",
+      "name": "Le Dauphinz Preschool 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1b0rNaUGuXvfp2jyRKlTVa73uFQ6kslbF"
+    },
+    {
+      "id": "120363237571098544@g.us",
+      "name": "Krittika - Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1XPEqun9tEF56-YHKhNNubJDkEsSP7fh3"
+    },
+    {
+      "id": "120363334222580204@g.us",
+      "name": "Klimb🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/162h_KwSwwbPAJJaH_HK2QCQS5QybEc-l"
+    },
+    {
+      "id": "120363327073225800@g.us",
+      "name": "Kidz Supreme International🤝Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1NU6atp4NsW7G2nPZ4v2blc6vlypQfJ9K"
+    },
+    {
+      "id": "120363238150584292@g.us",
+      "name": "Kidsville 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1S9gFAo70bAxNaDkd3SlwPHfyWg_tomzO"
+    },
+    {
+      "id": "120363337733676699@g.us",
+      "name": "KIDS PARADISE 🤝 EDPLORE",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1VMxliHMJt0KtwEnf3zrUAr-_iRxj-7k9"
+    },
+    {
+      "id": "120363265820035100@g.us",
+      "name": "Kids Mandira 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1GYNWW4AXS1HUdps7buBqEvo8Vwt9MEMW"
+    },
+    {
+      "id": "120363390376001795@g.us",
+      "name": "Kids Learning Center🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1AcCsqYryTPCNYvWqw7vU8bVHl5dh7jNu"
+    },
+    {
+      "id": "120363306639199596@g.us",
+      "name": "Kids kutira🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1PWf2PUEqjOt0gQQqZvFeJtxUTeY9MAlm"
+    },
+    {
+      "id": "120363340581045316@g.us",
+      "name": "Kids Fortune Montessori 🤝Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1pPM8E02E_W64C6T0wFiSBoyeDZaWBnc0"
+    },
+    {
+      "id": "120363387966709918@g.us",
+      "name": "Kids cube Thane🤝edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1MUKhafNz47eidCZDxPjU7TSVHh6crcSf"
+    },
+    {
+      "id": "120363221434581777@g.us",
+      "name": "Kids Corner Academy 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1M9XyI7ndtjGttvQlkGaq0mNyJdppi7od"
+    },
+    {
+      "id": "120363378689097168@g.us",
+      "name": "Kids Colony 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1V6giao_Q2avZt8gNsRuTDYOPpQhhysYq"
+    },
+    {
+      "id": "120363230190665339@g.us",
+      "name": "Kids.Com 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1kEnNy8l-pQEWxhhYFHiQbEEtevGLC1Ad"
+    },
+    {
+      "id": "120363335110676926@g.us",
+      "name": "Kiddy's Play House 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/161JHdplZ_BCyMsub_T6FoV7uQ4dGCS7M"
+    },
+    {
+      "id": "120363244863486001@g.us",
+      "name": "Kiddy Buddy 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1OescoyXRM47X30RdSOuVPkJ3hCssd1h0"
+    },
+    {
+      "id": "120363336129363571@g.us",
+      "name": "Kiddies World Thoothukudi 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1etXkqxodhXiq14an21_GUzUNsPHdf8Tg"
+    },
+    {
+      "id": "120363341236865463@g.us",
+      "name": "Kiddies World Preschool🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1nSe_JydF1FT3MOyKyq5WP7htGhsqIiDT"
+    },
+    {
+      "id": "120363191147501591@g.us",
+      "name": "Kiddens 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1Vw3e0mkp5THKMKAdm-fDFETRL8leAIoQ"
+    },
+    {
+      "id": "120363393042657632@g.us",
+      "name": "Kathakalpa 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1UI4yRL3zK00rbPTVGPzagPYmir9N4Vgf"
+    },
+    {
+      "id": "120363375935806741@g.us",
+      "name": "Kanasu 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1_JR7SA__XDHm6c4XIwx6cda3x3UK1MW7"
+    },
+    {
+      "id": "120363370782684563@g.us",
+      "name": "Kalarava Montessori 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1NM09aqPMPJiaur3M7iFIa0FvSe9lYU36"
+    },
+    {
+      "id": "120363341149763259@g.us",
+      "name": "Jnanasiddi Preschool🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1Xk1jjdMpucEDnVeTjCqM-gNAGzfxNxGR"
+    },
+    {
+      "id": "120363365184486736@g.us",
+      "name": "Jnana kuteera 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1Pa0EjYz7UpbwWSDLwYnky5oBTnUI2d5m"
+    },
+    {
+      "id": "120363352062347816@g.us",
+      "name": "JJ kids 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1vgBII2Kelvmmn2EyU7JKFl80xEb4BV6j"
+    },
+    {
+      "id": "120363378143292243@g.us",
+      "name": "Jelly Bears 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/11AmOWVxgrObrNDZQIO-x-Zm6HOz4oQoe"
+    },
+    {
+      "id": "120363210846848664@g.us",
+      "name": "JAIN KIDZZ 🤝Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/163JJNg4H_sC2rjV37h1zGKtzXONJWkf0"
+    },
+    {
+      "id": "120363043973417407@g.us",
+      "name": "Edplore.com - Jai Kids ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1SQ0oGO3YblHlzIkDhoKadIQn9jErZix2"
+    },
+    {
+      "id": "120363341407260590@g.us",
+      "name": "Iraa Public School 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1Ob6lBOG2MZjFGAmcuOSZnF2r8PLZPaRx"
+    },
+    {
+      "id": "120363371014470874@g.us",
+      "name": "Indo American 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1PIYxhvlYhHywGmg1g35dI2GO_js1bpMU"
+    },
+    {
+      "id": "120363357188645959@g.us",
+      "name": "Incy Wincy 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1MJ0oocjZvfnAsLDW9Ogah9xcxBQa36EE"
+    },
+    {
+      "id": "120363404015146604@g.us",
+      "name": "HYD Shishu Preschool 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/16LogzfSbHnSTct6kP94Wbh24DWrFsL2m"
+    },
+    {
+      "id": "120363357472656751@g.us",
+      "name": "HYD Access Active kids 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1TxNGsKmqq-xWs0Su9RuJ48c-XiNZfzjY"
+    },
+    {
+      "id": "120363387244207853@g.us",
+      "name": "Honey Hive 🤝Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1o8Bhzyi1qXtLC0y3qB4HN9wNyCA5jcZE"
+    },
+    {
+      "id": "120363320517450785@g.us",
+      "name": "Holy Angel 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1fVfXIvHswDS_qJb0Pln0ZKje_ZzxaBH-"
+    },
+    {
+      "id": "120363202789931975@g.us",
+      "name": "Happy Play Kids 🤝 edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1bbrJn0IyLZqFscmMt3u10NtU7HR2UDw1"
+    },
+    {
+      "id": "120363275200586836@g.us",
+      "name": "Happy Kids 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1-KBiyrART2HSeLd9IIkD6Wn0aCekmylX"
+    },
+    {
+      "id": "120363311884947769@g.us",
+      "name": "Happy Feet 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1wiybKbv4ODfYnL-CYAg3m7ec6PrMX7JG"
+    },
+    {
+      "id": "120363031218535173@g.us",
+      "name": "Edplore - Halona Nursery ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1sxJR5PxiHL_3t8lie_baK-vs-7D23CUX"
+    },
+    {
+      "id": "120363399238590994@g.us",
+      "name": "Growinn International Play School 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1MaFp2Wu6K0bwUvq1u8rSOol4DRG49QCX"
+    },
+    {
+      "id": "120363333173432977@g.us",
+      "name": "Growing Tots🤝Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1We-NwlPbw8fdOyr3Ol9Al3dTdCozGGax"
+    },
+    {
+      "id": "120363330383326499@g.us",
+      "name": "Greenoak 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1IH_MmFiT1DZGZXT_xPBxS4iL24VE-zdg"
+    },
+    {
+      "id": "120363377553637285@g.us",
+      "name": "Gigglezz Preschool 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1MynXn2VBJEmyOIT65a9xFf0r91cqfdUP"
+    },
+    {
+      "id": "120363277442918085@g.us",
+      "name": "G kids🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1hpdvqpKbJWBTIMPrv5sGRqanIfj6RMAu"
+    },
+    {
+      "id": "120363050372582439@g.us",
+      "name": "FT corrections",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1tTl1DNsQJaBG1Bho4iNNeyNDB5_DYZgV"
+    },
+    {
+      "id": "120363386091530304@g.us",
+      "name": "First step preschool Hyd🤝edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1DNwHJENGfgos9B0anklve8PCDlldTqxs"
+    },
+    {
+      "id": "120363238371394673@g.us",
+      "name": "First step candy - Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1zUybUTPwLrqNg9kBKqD7z3AHz6ICScON"
+    },
+    {
+      "id": "120363369283582755@g.us",
+      "name": "First Little Steps 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1S6S7pvdZ61rTKXvn04mklYFcpJM2S9kY"
+    },
+    {
+      "id": "120363224200085975@g.us",
+      "name": "Eyelids Kidzone - Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1I008wTtD0oVA6zQQPzrEAIhK9aNyHLbT"
+    },
+    {
+      "id": "120363371883880917@g.us",
+      "name": "Exploring Kids 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/12vpX1Ox1Aqc89rCFvRit3lRTF96c7rR-"
+    },
+    {
+      "id": "120363328847054941@g.us",
+      "name": "Excelsior Academy 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1RfH5TCpOkizuyh1EdXxtYPtTTUBqJybw"
+    },
+    {
+      "id": "120363338435192286@g.us",
+      "name": "Elite Kidz 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1WhRuPvUFUW4JxOtc4KEl702-eXfSZbr-"
+    },
+    {
+      "id": "120363386821130888@g.us",
+      "name": "Ekam Kids 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1BjROppNCH_TX0AP4gM-W2RdKQLeW0CRi"
+    },
+    {
+      "id": "120363375062679865@g.us",
+      "name": "Edunurture Pre Primary 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1VpdAo0VvvKx9G2Z1aO3iSNg8wS8jOUv9"
+    },
+    {
+      "id": "120363400279272822@g.us",
+      "name": "Early Geniuses 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/13vxptlmBEIhhjS_5zA-pxvQbGxn9zTrE"
+    },
+    {
+      "id": "120363383479227790@g.us",
+      "name": "E Junior preschool🤝edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1k-86J8T6mFGfZPyMtihHVhDzaD4ZdjVA"
+    },
+    {
+      "id": "120363353613029355@g.us",
+      "name": "Dream Kids 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1IY6SbvqrXDzH4p7ihXSs_WGXYyiuzlYY"
+    },
+    {
+      "id": "120363374020805524@g.us",
+      "name": "Dolfin 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1NLJckERsgl-JatUzCyxXY7gVVNQrRLiJ"
+    },
+    {
+      "id": "120363369284478885@g.us",
+      "name": "Devadeepa Preschool 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1q5LE4xgdsV8VNUtP5jsA05gppka5Yx1o"
+    },
+    {
+      "id": "120363338540937264@g.us",
+      "name": "Cuttie Pie Preschool🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1XrVj9nyjpWANUlcFYWJu7ogIEm_Qand3"
+    },
+    {
+      "id": "120363361314512323@g.us",
+      "name": "Creative kids 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1ioS23B9q_vP3aZ9mXdY5w7dONf4oRv7T"
+    },
+    {
+      "id": "120363222849569438@g.us",
+      "name": "Creative Kiddos 🤝 edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1o5NvZCSK58HZiE9JzGg0AemsBOuQt_Z_"
+    },
+    {
+      "id": "120363416596536345@g.us",
+      "name": "Creative Junction 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1u-eZGkKJ7R2hLJbvRpMB781crEAKprQm"
+    },
+    {
+      "id": "120363348139391220@g.us",
+      "name": "Creative Cubs 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1-E8-ZxBA60BhtPFNnkZj8ZKlUEp3M4mA"
+    },
+    {
+      "id": "120363381124401963@g.us",
+      "name": "Creative Crayons 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1xKJRoeybpT3FBLtzb9omElJj1MkPgNrr"
+    },
+    {
+      "id": "120363398683315719@g.us",
+      "name": "Cooinda Pre school 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1kyHaiMakwsY2eFWsjZCEazJdv4LM5YvV"
+    },
+    {
+      "id": "120363353652057772@g.us",
+      "name": "COK Caterpillarz 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1AW_X-l6PZtodPhO5fjvKsnRn8NDaFEsO"
+    },
+    {
+      "id": "120363369249881545@g.us",
+      "name": "Cocoon-The School Hyd🤝edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1lXiN6hGZx8fmKEofA3bXckVLBBRUhWrX"
+    },
+    {
+      "id": "120363370872827287@g.us",
+      "name": "Chiguru Kids 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/19STU2sEHEEkxea91y1p_csc02DoVvOro"
+    },
+    {
+      "id": "120363413911739696@g.us",
+      "name": "Cherubs Galaxy 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1wDYxt8pe8V_ICyshNMbxJD6GciwoPAZT"
+    },
+    {
+      "id": "120363322638308434@g.us",
+      "name": "Caterpillar Preschool 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1K4p8HIXax85Rv-I3Rpw_4j2G2ZC364Tf"
+    },
+    {
+      "id": "120363348666890904@g.us",
+      "name": "Brillant kids 🤝Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1Dp9qdXsXtsm1g-1G8buWm4_EbEMQa5um"
+    },
+    {
+      "id": "120363236434941951@g.us",
+      "name": "Bright Cub 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1UNmJ8VrVezZiHvdgxvtawSD6gDik0Yzc"
+    },
+    {
+      "id": "120363354972837486@g.us",
+      "name": "BOM Tiny Feet World 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1BOqYkiJ5xPV0my8WgHhkSh4cQjUtkw4O"
+    },
+    {
+      "id": "120363371313742652@g.us",
+      "name": "BOM Green Bean Mont 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1oK5LNm1_RapwmEAg7rpaUeUtD3r0cc_o"
+    },
+    {
+      "id": "120363316482180385@g.us",
+      "name": "BOCHIICA KIDS 🤝🏻 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/157vfSbW_AF9bkxS_FqhP9uWBgXYlD_6N"
+    },
+    {
+      "id": "120363317268493168@g.us",
+      "name": "BLR Star Kids 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/10En0E9D3pb0_w4BRq7VotzpMPI6rpo62"
+    },
+    {
+      "id": "120363334654944630@g.us",
+      "name": "BLR Crayon Montessori 5th phase🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1Hz94HyJiTv9LI19u7DFQoZ1O6cBUX-mR"
+    },
+    {
+      "id": "120363388226554959@g.us",
+      "name": "Blr Ankuram 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1XOpnKOM5dLkippll3H4oU2CwgluxTTI-"
+    },
+    {
+      "id": "120363338464817413@g.us",
+      "name": "Blooming Kids Care 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1R6w4ePbcIdP11wwrX3lrr1xvjfsJGdhO"
+    },
+    {
+      "id": "120363400014119643@g.us",
+      "name": "Blooming buds HYD🤝edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1gbkHrqod4jVl-_klMz59bTet7U2aHkPL"
+    },
+    {
+      "id": "120363143883113345@g.us",
+      "name": "Bloom Mont - Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1aiJNS9UADpvjFOLUcu7Uc9huWrmkE9_k"
+    },
+    {
+      "id": "120363338554538869@g.us",
+      "name": "Berryz Preschool 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1TVcipjTrjTTqddGAgBqcymEBMcWTYEwK"
+    },
+    {
+      "id": "120363186053855171@g.us",
+      "name": "Beezee Mind 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1uLuWfkypMUn37d_dUZg9bKm6KAg4hFp0"
+    },
+    {
+      "id": "120363201985720403@g.us",
+      "name": "Basil Woods Junior 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1CcOSKtHSE6XAAgvlEp0BA_kBPZvA6tBu"
+    },
+    {
+      "id": "120363421706673080@g.us",
+      "name": "B4 Kidz World 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1FNZjE9brf3clXpfKxfO4BHZFER_Ow_sg"
+    },
+    {
+      "id": "120363387749547338@g.us",
+      "name": "Asia International 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1AJhXt9yBc05Ptm99NYTnvpiTKs0bWCtj"
+    },
+    {
+      "id": "120363377571432904@g.us",
+      "name": "Arivu International 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1l2pyOTSB-HRuU0MDD38Go4-yd1dfnkss"
+    },
+    {
+      "id": "120363154068477663@g.us",
+      "name": "Arise -Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1ZkUV6XaKCxnRfxM_slvl6JYM2JWGoxNe"
+    },
+    {
+      "id": "120363387621301667@g.us",
+      "name": "Apple Kids Academy 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/164rXbXfQpCw7_osDzXHkwaw5Im4tziGC"
+    },
+    {
+      "id": "120363242341189902@g.us",
+      "name": "Apple Kids 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1soJuzp3LTF6pfDI6oxj4lirJi4LkhATs"
+    },
+    {
+      "id": "120363354766719643@g.us",
+      "name": "Annai Arul 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1CMnpe5ozJFbxOci-TuKAmnD2FPAbi7pS"
+    },
+    {
+      "id": "120363291343052663@g.us",
+      "name": "Ankur 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/12PmCIH9pghFmldtVX0Kcr45CtgbSzX7Z"
+    },
+    {
+      "id": "120363187817271189@g.us",
+      "name": "Ani bee 🤝 edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1WRHSjsiNDViyHNwdCj4J5PIPO3d6ioLY"
+    },
+    {
+      "id": "120363029775384332@g.us",
+      "name": "Ananda-edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1erjeATGTZ2OCi16LaL-euWK_pvPbpaha"
+    },
+    {
+      "id": "120363047296580435@g.us",
+      "name": "American school - Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1zCzWY8eUwAcFxCMavUgbfzJVNzRnEN5G"
+    },
+    {
+      "id": "120363362034380231@g.us",
+      "name": "Alwan Preschool 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1j3Lkrb_RMbOXSePnNFUi4LfvERBMAkj7"
+    },
+    {
+      "id": "120363267791753276@g.us",
+      "name": "Alphabetz 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1UDoncr6GReICnFaY3sJMd8ob-cjFdvgY"
+    },
+    {
+      "id": "120363372299555944@g.us",
+      "name": "All Green Fields Playschool 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1YvPBuJqGhqlT7v3RbMYlrCpzgmYlbf9K"
+    },
+    {
+      "id": "120363336766123016@g.us",
+      "name": "Akshay Preschool 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1PKG4zjFjJPwV-uC9mEs-PIkRoRvEClL1"
+    },
+    {
+      "id": "120363375002812584@g.us",
+      "name": "Akshara Public School\n🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1aBkzsGnclPlYGjnAogJJZGvMWctTj8Jz"
+    },
+    {
+      "id": "120363368464897908@g.us",
+      "name": "Agaram kids montessori🤝edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1-qqDocC9pEZqVcUtqoFsiQPRGI4j_RpT"
+    },
+    {
+      "id": "120363334987180139@g.us",
+      "name": "Advaitha Gurukula Preschool🤝Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1FtTAtmcQoD47TgXQ2QNC_JmTHxCmkaIq"
+    },
+    {
+      "id": "120363030021425290@g.us",
+      "name": "Edplore - ACE kids",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1mRVGFomQ2tIjEax18hLm1E3Tl2iCzJMB"
+    },
+    {
+      "id": "120363376819321274@g.us",
+      "name": "Aavishkar Kids Preschool 🤝 Edplore ",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1fpJqFJQRglI_X44rP6loXLh0JTuwO2oQ"
+    },
+    {
+      "id": "120363374485569594@g.us",
+      "name": "ஆathichudi chitlapakkam 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/14x40bIBL8Qg1TDBtkXRRg7LJsUOHlDDj"
+    },
+    {
+      "id": "120363335920898150@g.us",
+      "name": "Aadhya's Playhome 🤝 Edplore",
+      "image_status": "yes",
+      "drive_link": "https://drive.google.com/drive/folders/1uSND2n4nIAPxJkRXH-6yi-vb-wxoXgA7"
+    },
+    {
+      "id": "120363404480756417@g.us",
+      "name": "MAA Beta Kidzz 🤝 Edplore ",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363417451275195@g.us",
+      "name": "Edplore Kids Time Smart care ( Hoskote) 🤝 Edplore",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363418823338552@g.us",
+      "name": "TN Kidseed 🤝 Edplore ",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363392605737347@g.us",
+      "name": "Edusmart Preschool🤝Edplore",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363412567770780@g.us",
+      "name": "Sujay International - Edplore",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363400946101312@g.us",
+      "name": "London Kids Tukkuguda Hyd🤝edplore",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363418078332831@g.us",
+      "name": "Little world international academy 🤝 Edplore",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363421562246498@g.us",
+      "name": "Edplore 🤝Avacado concept preschool",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363420061068169@g.us",
+      "name": "Edplore🤝 Cute kids",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363402207388573@g.us",
+      "name": "MAA Fly Colour 🤝 Edplore ",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363401047827671@g.us",
+      "name": "Testing Video",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363417649974604@g.us",
+      "name": "MAA Busy Bees 🤝 Edplore ",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363401531625799@g.us",
+      "name": "Edplore 🤝 Bag & Uniform ",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363401056188622@g.us",
+      "name": "Creative Cubs 🤝 Edplore",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363402333827301@g.us",
+      "name": "MAA Bright Kidz 🤝 Edplore ",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363398756014196@g.us",
+      "name": "MAA Annai Play 🤝 Edplore",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363401446256369@g.us",
+      "name": "Little star home🤝edplore",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363400336565404@g.us",
+      "name": "Tiny town 🤝 Edplore",
+      "image_status": "no",
+      "drive_link": ""
+    },
+    {
+      "id": "120363380733724066@g.us",
+      "name": "Lakshya Little stars 🤝 Edplore",
+      "image_status": "no",
+      "drive_link": ""
+    }
+  ]
+}
